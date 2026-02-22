@@ -76,11 +76,9 @@ button:focus-visible,
 }
 .experience-rail[data-orientation="horizontal"] {
   flex-direction: row;
-  scroll-snap-type: x mandatory;
 }
 .experience-rail[data-orientation="vertical"] {
   flex-direction: column;
-  scroll-snap-type: y mandatory;
 }
 
 .experience-panel {
