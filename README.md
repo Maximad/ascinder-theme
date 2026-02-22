@@ -12,3 +12,10 @@ ASCINDER Theme is a lightweight classic WordPress theme built for ascinder.com w
 
 ## Screenshot note
 Add `screenshot.png` manually after merge if WordPress admin theme preview imagery is required.
+
+
+## Deployer-friendly notes
+- This theme is deploy-friendly for git-based workflows: commit only source files (`.php`, `.js`, `.css`, `.json`, docs) and avoid generated/binary artifacts in PR automation.
+- Keep binary files out of automated PRs (for example media exports or archive files); upload those through WordPress media/admin flows instead.
+- If you want WordPress theme preview imagery, add `screenshot.png` manually after merge/release (do not rely on automation to generate/commit it).
+
