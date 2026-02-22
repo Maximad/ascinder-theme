@@ -1,0 +1,45 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Common binary assets (keep out of Codex PR flow)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.avif
+*.ico
+*.svgz
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.pdf
+*.zip
+*.rar
+*.7z
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# WordPress / tooling artifacts
+node_modules/
+dist/
+build/
+coverage/
+.nyc_output/
+*.min.*.map

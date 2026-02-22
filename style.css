@@ -1,0 +1,13 @@
+/*
+Theme Name: ASCINDER Theme
+Theme URI: https://ascinder.com
+Author: ASCINDER
+Description: Custom classic WordPress theme for ASCINDER with an immersive interactive homepage.
+Version: 0.1.0
+Text Domain: ascinder
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+*/
+
+/* Base stylesheet kept intentionally small; primary styles live in assets/app.css */

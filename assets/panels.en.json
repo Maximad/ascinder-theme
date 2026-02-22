@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vision",
+    "kicker": "ASCINDER",
+    "title": "Intelligence for national resilience",
+    "text": "A strategic ecosystem delivering data, policy, and programs designed for measurable public impact.",
+    "media": { "type": "image", "url": "" },
+    "cta": { "label": "Explore Program", "href": "/program/" }
+  },
+  {
+    "id": "network",
+    "kicker": "Field Presence",
+    "title": "Connected hubs across key locations",
+    "text": "Collaborative spaces linking experts, institutions, and communities through adaptive initiatives.",
+    "media": { "type": "video", "url": "" },
+    "cta": { "label": "View Locations", "href": "/locations/" }
+  },
+  {
+    "id": "engage",
+    "kicker": "Engage",
+    "title": "Work with ASCINDER",
+    "text": "Partner with us to design future-ready solutions for policy, education, and social innovation.",
+    "media": { "type": "image", "url": "" },
+    "cta": { "label": "Contact", "href": "/contact/" }
+  }
+]
